@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "435286616809",
+    "firebase_url": "https://newrobomaster-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "newrobomaster",
+    "storage_bucket": "newrobomaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435286616809:android:f050c91280c8f1eead5e78",
+        "android_client_info": {
+          "package_name": "com.example.robomaster_new_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuCbhTEdibJc5dQ61e-7sMKapK81cUCkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
